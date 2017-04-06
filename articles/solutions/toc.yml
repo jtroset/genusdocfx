@@ -1,0 +1,15 @@
+- name: Overview
+  href: overview/
+  items:
+  - name: What is a Genus Solution?
+    href: overview/what is a genus solution.md
+- name: Solution 1
+  href: solution 1/
+  items:
+  - name: Solution 1 Article 1
+    href: solution 1/solution 1 article 1.md
+- name: Solution 2
+  href: solution 2/
+  items:
+  - name: Solution 2 Article 1
+    href: solution 2/solution 2 article 1.md

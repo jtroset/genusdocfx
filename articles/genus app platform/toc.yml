@@ -1,0 +1,30 @@
+- name: Overview
+  href: overview/
+  items:
+  - name: What is Genus App Platform?
+    href: overview/what is genus app platform.md
+  - name: Why use Genus App Platform?
+    href: overview/why use genus app platform.md
+  - name: Understanding no-code development
+    href: overview/understanding no-code development.md
+  - name: Application scenarios
+    href: overview/application scenarios.md
+  - name: Architecture
+    href: overview/architecture.md
+  - name: Terminology
+    href: overview/terminology.md
+- name: Get Started
+  href: get started/
+  items:
+  - name: Get Started Article 1
+    href: get started/get started article 1.md
+- name: Reference
+  href: reference/
+  items:
+  - name: Reference Article 1
+    href: reference/reference article 1.md
+- name: Release Notes
+  href: release notes/
+  items:
+  - name: Release Notes Article 1
+    href: release notes/release notes article 1.md
