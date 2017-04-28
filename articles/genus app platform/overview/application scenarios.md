@@ -4,3 +4,4 @@ Genus App Platform offers a reliable and flexible platform that enables you to w
 Genus App Platform is ideal for the following categories of applications:
 1. Application type one
 2. Application type two
+3. App type three
